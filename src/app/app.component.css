@@ -1,0 +1,10 @@
+.lottie-animation-view{
+  position:relative;
+  overflow:hidden;
+}
+.plays{
+  position:absolute;
+  top:-10px;
+  left:-5px;
+}
+
